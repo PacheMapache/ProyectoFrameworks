@@ -236,11 +236,3 @@ Este proyecto es de uso educativo y demostrativo.
 3. Commit cambios (`git commit -m 'Add some AmazingFeature'`)
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abrir Pull Request
-
-## 📞 Contacto
-
-¿Preguntas o sugerencias? ¡El mapache está aquí para ayudar! 🦝
-
----
-
-**¡Disfruta gestionando tus posts con el poder del mapache!** 🚀
